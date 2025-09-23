@@ -1,0 +1,7 @@
+﻿public enum AppEventId : int
+{
+    ON_POINTCLOUD_UPDATE,
+    ON_STREAM_UPDATE,
+    ON_COORDINATE_START,
+    ON_COORDINATE_FINISH
+}

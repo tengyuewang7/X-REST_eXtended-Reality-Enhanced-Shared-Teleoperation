@@ -1,0 +1,101 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bbb281ee3bf0b054c82ac2347e9e782c, type: 3}
+  m_Name: Default Local Group
+  m_EditorClassIdentifier: 
+  m_GroupName: Default Local Group
+  m_Data:
+    m_SerializedData: []
+  m_GUID: 7b8a2c025a816bf45a69e214f3a460a6
+  m_SerializeEntries:
+  - m_GUID: cf3ea27fd593ec345b3aa689b5199e38
+    m_Address: Assets/Scripts/GlobalSetting.asset
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: bc2b2c2237c834c478e947bae2ba13b3
+    m_Address: Assets/Prefabs/ComputerShaderPointCloudTemplate.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: afb6aba08340aa24ead39c676b8cc2d6
+    m_Address: Assets/Prefabs/ComputerShaderPointCloud/PointCloudS.compute
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: adac339763de79346b1bdb70e7fc4172
+    m_Address: Assets/Prefabs/PointCloudElemTemplate.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 4cf313f63d9fb2b438670d02df4650f6
+    m_Address: Assets/Prefabs/RizonVisual.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 24589ee8f7a0f58438829417cdd5109a
+    m_Address: Assets/Prefabs/EndEffectorController.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: e1f592fe296ce9644b0af9c1f1c561b1
+    m_Address: Assets/URDF/Materials/rizon_light_grey_visual.mat
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 493ef4586ca67f843b7e85d2d3e4bb6b
+    m_Address: Assets/Prefabs/HanoiGroup.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 85da5ae893acadb4a9da4b3b8d33e9d5
+    m_Address: Assets/Prefabs/Coordinate Calibration.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 91db44a8728f0804494bd29a9823f8ba
+    m_Address: Assets/Prefabs/Ground.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 5b750d9e174a40246929bc5d997c9ea6
+    m_Address: Assets/Prefabs/Switch.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 20b6eabe0f8ab4b408178be312b4791f
+    m_Address: Assets/Prefabs/CameraImage.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 92809ec860acca9499adf52b7c39bfe1
+    m_Address: Assets/Prefabs/Dot.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 3a575c351733e2e488227db1cb38ed7c
+    m_Address: Assets/Prefabs/XYZCoordinate.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 554e9fdf21657ab44847be39536fc539
+    m_Address: Assets/Prefabs/ROSCommunication.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: c3b0a28a72fe615418d5e8018326dd13
+    m_Address: Assets/Prefabs/PointCloudVisualization.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 102ead66f30e7d646b4a5fbd0309bd83
+    m_Address: Assets/Prefabs/Material/MyPointCloudMaterial.mat
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 59d15b74492bdc64c897e5f9c9a7440b
+    m_Address: Assets/Prefabs/Rizon.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: c3d7e95bc2dd77241a917e623d214aa2
+    m_Address: Assets/Prefabs/Material/MRTKMaterials/MRTK_Standard_Orange.mat
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  m_ReadOnly: 0
+  m_Settings: {fileID: 11400000, guid: e248c5a36f4c33048b97490b485bf2d3, type: 2}
+  m_SchemaSet:
+    m_Schemas:
+    - {fileID: 11400000, guid: b10cdf9d98297034ba8f35acab016008, type: 2}
+    - {fileID: 11400000, guid: 54c5f2f699e82a54d90a124a754f108c, type: 2}
