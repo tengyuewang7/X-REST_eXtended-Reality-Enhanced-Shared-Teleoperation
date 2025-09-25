@@ -1,0 +1,14 @@
+[
+{
+  "directory": "/home/rvc/colcon_ws/utils/rizon_kinematics/build",
+  "command": "/usr/bin/c++ -DUSE_C10D_GLOO -DUSE_C10D_NCCL -DUSE_DISTRIBUTED -DUSE_RPC -DUSE_TENSORPIPE -I/home/rvc/colcon_ws/utils/assimp/include -isystem /home/rvc/colcon_ws/utils/rizon_kinematics/libtorch/include -isystem /home/rvc/colcon_ws/utils/rizon_kinematics/libtorch/include/torch/csrc/api/include -isystem /usr/local/cuda/include  -D_GLIBCXX_USE_CXX11_ABI=1 -g -std=gnu++17 -D_GLIBCXX_USE_CXX11_ABI=1 -o CMakeFiles/main.dir/src/main.cpp.o -c /home/rvc/colcon_ws/utils/rizon_kinematics/src/main.cpp",
+  "file": "/home/rvc/colcon_ws/utils/rizon_kinematics/src/main.cpp",
+  "output": "CMakeFiles/main.dir/src/main.cpp.o"
+},
+{
+  "directory": "/home/rvc/colcon_ws/utils/rizon_kinematics/build",
+  "command": "/usr/bin/c++ -DUSE_C10D_GLOO -DUSE_C10D_NCCL -DUSE_DISTRIBUTED -DUSE_RPC -DUSE_TENSORPIPE -I/home/rvc/colcon_ws/utils/assimp/include -isystem /home/rvc/colcon_ws/utils/rizon_kinematics/libtorch/include -isystem /home/rvc/colcon_ws/utils/rizon_kinematics/libtorch/include/torch/csrc/api/include -isystem /usr/local/cuda/include  -D_GLIBCXX_USE_CXX11_ABI=1 -g -std=gnu++17 -D_GLIBCXX_USE_CXX11_ABI=1 -o CMakeFiles/main.dir/src/rizon_kinematics.cpp.o -c /home/rvc/colcon_ws/utils/rizon_kinematics/src/rizon_kinematics.cpp",
+  "file": "/home/rvc/colcon_ws/utils/rizon_kinematics/src/rizon_kinematics.cpp",
+  "output": "CMakeFiles/main.dir/src/rizon_kinematics.cpp.o"
+}
+]
