@@ -1,0 +1,1 @@
+/usr/bin/c++  -O3 -DNDEBUG   CMakeFiles/basics1_display_robot_states.dir/basics1_display_robot_states.cpp.o  -o basics1_display_robot_states  /home/rvc/flexiv/flexiv_rdk/lib/libFlexivRdk.x86_64-linux-gnu.a -pthread 

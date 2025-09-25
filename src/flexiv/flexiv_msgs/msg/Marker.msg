@@ -1,0 +1,9 @@
+uint32 frame_id
+uint32 marker_id
+uint32 model_id
+string marker_name
+float64 x
+float64 y
+float64 z
+float64 size
+float64 residual

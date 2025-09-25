@@ -1,0 +1,160 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"hasInstallRule" : true,
+					"jsonFile" : "directory-.-Debug-410b7d22ba04e2925fb5.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.5"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5,
+						6,
+						7,
+						8,
+						9,
+						10,
+						11
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "flexiv_cpp",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5,
+						6,
+						7,
+						8,
+						9,
+						10,
+						11
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "flexiv_cpp_uninstall::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-flexiv_cpp_uninstall-Debug-4a65450270775cfd5530.json",
+					"name" : "flexiv_cpp_uninstall",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "flexiv_mesh::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-flexiv_mesh-Debug-6955d166670f02eaa689.json",
+					"name" : "flexiv_mesh",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "flexiv_reconstruction::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-flexiv_reconstruction-Debug-ff4a8c480e09b154658a.json",
+					"name" : "flexiv_reconstruction",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "flexiv_robot::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-flexiv_robot-Debug-0dc803ecf2daedad1686.json",
+					"name" : "flexiv_robot",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "flexiv_test::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-flexiv_test-Debug-ed068ebc45f2754e7470.json",
+					"name" : "flexiv_test",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "flexiv_trac_ik::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-flexiv_trac_ik-Debug-07656985c95dd791ae34.json",
+					"name" : "flexiv_trac_ik",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "flexiv_unity::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-flexiv_unity-Debug-656503dea9764c88471f.json",
+					"name" : "flexiv_unity",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "keyboard_control::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-keyboard_control-Debug-316d4bb2e37b4818a384.json",
+					"name" : "keyboard_control",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "robot_test::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-robot_test-Debug-80619a3bdaaabd100680.json",
+					"name" : "robot_test",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "test_ros2::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-test_ros2-Debug-ec049c78cebdeca56376.json",
+					"name" : "test_ros2",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "uninstall::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-uninstall-Debug-56577544359950851058.json",
+					"name" : "uninstall",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "unity_decision_making::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-unity_decision_making-Debug-9eed6e63e944c348cd5e.json",
+					"name" : "unity_decision_making",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "/home/rvc/colcon_ws/src/flexiv/flexiv_cpp/build",
+		"source" : "/home/rvc/colcon_ws/src/flexiv/flexiv_cpp"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 5
+	}
+}

@@ -1,0 +1,1 @@
+/usr/bin/c++  -O3 -DNDEBUG   CMakeFiles/intermediate7_teach_by_demonstration.dir/intermediate7_teach_by_demonstration.cpp.o  -o intermediate7_teach_by_demonstration  /home/rvc/flexiv/flexiv_rdk/lib/libFlexivRdk.x86_64-linux-gnu.a -pthread 

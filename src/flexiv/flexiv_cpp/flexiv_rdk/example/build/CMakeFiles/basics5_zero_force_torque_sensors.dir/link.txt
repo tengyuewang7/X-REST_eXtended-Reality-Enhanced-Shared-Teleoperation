@@ -1,0 +1,1 @@
+/usr/bin/c++  -O3 -DNDEBUG   CMakeFiles/basics5_zero_force_torque_sensors.dir/basics5_zero_force_torque_sensors.cpp.o  -o basics5_zero_force_torque_sensors  /home/rvc/flexiv/flexiv_rdk/lib/libFlexivRdk.x86_64-linux-gnu.a -pthread 

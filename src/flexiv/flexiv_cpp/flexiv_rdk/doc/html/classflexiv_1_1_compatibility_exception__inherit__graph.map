@@ -1,0 +1,5 @@
+<map id="flexiv::CompatibilityException" name="flexiv::CompatibilityException">
+<area shape="rect" id="node1" title="Thrown if version of the RDK client is not compatible with the robot server." alt="" coords="5,155,224,181"/>
+<area shape="rect" id="node2" href="$classflexiv_1_1_exception.html" title="Base class for all custom runtime exception classes." alt="" coords="49,80,180,107"/>
+<area shape="rect" id="node3" title=" " alt="" coords="45,5,184,32"/>
+</map>

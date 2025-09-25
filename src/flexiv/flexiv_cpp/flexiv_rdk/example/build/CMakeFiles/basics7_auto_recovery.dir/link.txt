@@ -1,0 +1,1 @@
+/usr/bin/c++  -O3 -DNDEBUG   CMakeFiles/basics7_auto_recovery.dir/basics7_auto_recovery.cpp.o  -o basics7_auto_recovery  /home/rvc/flexiv/flexiv_rdk/lib/libFlexivRdk.x86_64-linux-gnu.a -pthread 

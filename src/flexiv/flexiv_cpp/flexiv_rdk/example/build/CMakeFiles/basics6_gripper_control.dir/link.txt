@@ -1,0 +1,1 @@
+/usr/bin/c++  -O3 -DNDEBUG   CMakeFiles/basics6_gripper_control.dir/basics6_gripper_control.cpp.o  -o basics6_gripper_control  /home/rvc/flexiv/flexiv_rdk/lib/libFlexivRdk.x86_64-linux-gnu.a -pthread 

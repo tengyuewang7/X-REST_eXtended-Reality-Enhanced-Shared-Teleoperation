@@ -1,0 +1,5 @@
+<map id="flexiv::InitException" name="flexiv::InitException">
+<area shape="rect" id="node1" title="Thrown if the initialization of a functional module has failed." alt="" coords="5,155,157,181"/>
+<area shape="rect" id="node2" href="$classflexiv_1_1_exception.html" title="Base class for all custom runtime exception classes." alt="" coords="16,80,147,107"/>
+<area shape="rect" id="node3" title=" " alt="" coords="12,5,151,32"/>
+</map>

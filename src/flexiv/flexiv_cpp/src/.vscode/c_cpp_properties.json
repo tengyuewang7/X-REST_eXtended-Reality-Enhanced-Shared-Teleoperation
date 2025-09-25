@@ -1,0 +1,45 @@
+{
+    "configurations": [
+      {
+        "browse": {
+          "databaseFilename": "${default}",
+          "limitSymbolsToIncludedHeaders": false
+        },
+        "includePath": [
+          "/home/rvc/colcon_ws/install/unity_robotics_demo_msgs/include/**",
+          "/home/rvc/colcon_ws/install/trac_ik_lib/include/**",
+          "/home/rvc/colcon_ws/install/realsense2_camera/include/**",
+          "/home/rvc/colcon_ws/install/realsense2_camera_msgs/include/**",
+          "/home/rvc/colcon_ws/install/flexiv_msgs/include/**",
+          "/home/rvc/colcon_ws/install/example_interfaces/include/**",
+          "/home/rvc/colcon_ws/install/flexiv_cpp/include/**",
+          "/opt/ros/foxy/include/**",
+          "/home/rvc/colcon_ws/src/realsense-ros/realsense2_camera/include/**",
+          "/home/rvc/colcon_ws/src/to_unity/to_unity_cpp/include/**",
+          "/home/rvc/colcon_ws/src/trac_ik/trac_ik_lib/include/**",
+          "/home/rvc/colcon_ws/src/flexiv/flexiv_cpp/include/**",
+          "/home/rvc/colcon_ws/src/flexiv/flexiv_cpp/libtorch/include/**",
+          "/home/rvc/colcon_ws/src/flexiv/flexiv_cpp/libtorch/include/**",
+          "/home/rvc/colcon_ws/src/flexiv/flexiv_cpp/libtorch/include/",
+          "/home/rvc/colcon_ws/src/flexiv/flexiv_cpp/libtorch/include/torch/csrc/api/include",
+          "/home/rvc/colcon_ws/src/flexiv/flexiv_cpp/libtorch/include/csrc",
+
+          "${workspaceFolder}/**",
+          "/opt/ros/foxy/include/**",
+          "/usr/include/**",
+          "/home/rvc/colcon_ws/install/**",
+          "/home/rvc/colcon_ws/build/flexiv_msg/**",
+
+          
+          "include/**",
+          "/usr/include/**"
+        ],
+        "name": "ROS",
+        "intelliSenseMode": "gcc-x64",
+        "compilerPath": "/usr/bin/gcc",
+        "cStandard": "gnu11",
+        "cppStandard": "c++17"
+      }
+    ],
+    "version": 4
+  }

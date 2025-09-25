@@ -1,0 +1,11 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="node1" href="$classflexiv_1_1_comm_exception.html" title="Thrown if the communication/connection with the robot server has an error." alt="" coords="5,157,180,184"/>
+<area shape="rect" id="node2" href="$classflexiv_1_1_exception.html" title="Base class for all custom runtime exception classes." alt="" coords="228,157,359,184"/>
+<area shape="rect" id="node3" href="$classflexiv_1_1_client_exception.html" title="Thrown if an error is triggered by the client computer." alt="" coords="431,5,601,32"/>
+<area shape="rect" id="node4" href="$classflexiv_1_1_compatibility_exception.html" title="Thrown if version of the RDK client is not compatible with the robot server." alt="" coords="407,56,625,83"/>
+<area shape="rect" id="node5" href="$classflexiv_1_1_execution_exception.html" title="Thrown if an error occurred when executing a requested operation or computation." alt="" coords="419,107,613,133"/>
+<area shape="rect" id="node6" href="$classflexiv_1_1_init_exception.html" title="Thrown if the initialization of a functional module has failed." alt="" coords="440,157,592,184"/>
+<area shape="rect" id="node7" href="$classflexiv_1_1_input_exception.html" title="Thrown if the user input is not valid." alt="" coords="434,208,598,235"/>
+<area shape="rect" id="node8" href="$classflexiv_1_1_logic_exception.html" title="Thrown if the logic of the program is incorrect." alt="" coords="433,259,599,285"/>
+<area shape="rect" id="node9" href="$classflexiv_1_1_server_exception.html" title="Thrown if the robot server is not operational or has fault." alt="" coords="429,309,603,336"/>
+</map>
