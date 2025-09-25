@@ -1,0 +1,14 @@
+[
+{
+  "directory": "/home/rvc/colcon_ws/utils/xbox/build",
+  "command": "/usr/bin/c++ -I/home/rvc/colcon_ws/utils/xbox/eigen3/Eigen -g -o CMakeFiles/main.dir/src/main.cpp.o -c /home/rvc/colcon_ws/utils/xbox/src/main.cpp",
+  "file": "/home/rvc/colcon_ws/utils/xbox/src/main.cpp",
+  "output": "CMakeFiles/main.dir/src/main.cpp.o"
+},
+{
+  "directory": "/home/rvc/colcon_ws/utils/xbox/build",
+  "command": "/usr/bin/c++ -I/home/rvc/colcon_ws/utils/xbox/eigen3/Eigen -g -o CMakeFiles/test.dir/src/test.cpp.o -c /home/rvc/colcon_ws/utils/xbox/src/test.cpp",
+  "file": "/home/rvc/colcon_ws/utils/xbox/src/test.cpp",
+  "output": "CMakeFiles/test.dir/src/test.cpp.o"
+}
+]
