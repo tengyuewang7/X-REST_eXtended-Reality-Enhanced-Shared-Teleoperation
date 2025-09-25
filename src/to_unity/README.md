@@ -36,12 +36,3 @@ ros2 run to_unity_py decision_maker
 ```
 ### Subscribe: (1) "hanoi_grab": whether the hanoi disk is grabbed in Unity; (2) monitor the poses of hanoi disk 
 ### Publish: (1) "target_pose": Send the decided target pose of flange 
-
-## Step 1, 3, 4 can be done by a launch file 
-```bash
-ros2 launch to_unity_py unity_ros2_robot.launch.py
-```
-
-
-
-
