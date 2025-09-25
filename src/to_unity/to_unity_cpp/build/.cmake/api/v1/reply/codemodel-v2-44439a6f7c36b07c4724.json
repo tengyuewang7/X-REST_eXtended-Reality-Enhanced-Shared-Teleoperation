@@ -1,0 +1,106 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"hasInstallRule" : true,
+					"jsonFile" : "directory-.-Debug-26e8a5139be4fd54427c.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.5"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "to_unity_cpp",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "rizon_ik::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-rizon_ik-Debug-8d13f3f1bb513e8c4542.json",
+					"name" : "rizon_ik",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "rizon_ik_forward::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-rizon_ik_forward-Debug-ff8fa33c575b52227c35.json",
+					"name" : "rizon_ik_forward",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "rizon_model::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-rizon_model-Debug-aa83a872c5b1b1a0b7c7.json",
+					"name" : "rizon_model",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "to_unity_cpp_uninstall::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-to_unity_cpp_uninstall-Debug-bd65a3c814451123112a.json",
+					"name" : "to_unity_cpp_uninstall",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "uninstall::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-uninstall-Debug-dff9a24ead59cda7beb5.json",
+					"name" : "uninstall",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "ur3e_control::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-ur3e_control-Debug-1f67f9fbea60d9ca7e74.json",
+					"name" : "ur3e_control",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "/home/rvc/colcon_ws/src/to_unity/to_unity_cpp/build",
+		"source" : "/home/rvc/colcon_ws/src/to_unity/to_unity_cpp"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 5
+	}
+}

@@ -1,0 +1,26 @@
+[
+{
+  "directory": "/home/rvc/colcon_ws/src/to_unity/to_unity_cpp/build",
+  "command": "/usr/bin/g++ -DDEFAULT_RMW_IMPLEMENTATION=rmw_fastrtps_cpp -DNLOPT_DLL -DRCUTILS_ENABLE_FAULT_INJECTION -DSPDLOG_COMPILED_LIB -I/home/rvc/colcon_ws/src/to_unity/to_unity_cpp/include -isystem /home/rvc/colcon_ws/install/trac_ik_lib/include -isystem /home/rvc/colcon_ws/install/flexiv_msgs/include -isystem /opt/ros/foxy/include -isystem /usr/include/eigen3 -g -std=gnu++14 -Wall -Wextra -Wpedantic -o CMakeFiles/rizon_ik.dir/src/rizon_ik.cpp.o -c /home/rvc/colcon_ws/src/to_unity/to_unity_cpp/src/rizon_ik.cpp",
+  "file": "/home/rvc/colcon_ws/src/to_unity/to_unity_cpp/src/rizon_ik.cpp",
+  "output": "CMakeFiles/rizon_ik.dir/src/rizon_ik.cpp.o"
+},
+{
+  "directory": "/home/rvc/colcon_ws/src/to_unity/to_unity_cpp/build",
+  "command": "/usr/bin/g++ -DDEFAULT_RMW_IMPLEMENTATION=rmw_fastrtps_cpp -DNLOPT_DLL -DRCUTILS_ENABLE_FAULT_INJECTION -DSPDLOG_COMPILED_LIB -I/home/rvc/colcon_ws/src/to_unity/to_unity_cpp/include -isystem /home/rvc/colcon_ws/install/trac_ik_lib/include -isystem /home/rvc/colcon_ws/install/flexiv_msgs/include -isystem /opt/ros/foxy/include -isystem /usr/include/eigen3 -g -std=gnu++14 -Wall -Wextra -Wpedantic -o CMakeFiles/rizon_ik_forward.dir/src/rizon_ik_forward.cpp.o -c /home/rvc/colcon_ws/src/to_unity/to_unity_cpp/src/rizon_ik_forward.cpp",
+  "file": "/home/rvc/colcon_ws/src/to_unity/to_unity_cpp/src/rizon_ik_forward.cpp",
+  "output": "CMakeFiles/rizon_ik_forward.dir/src/rizon_ik_forward.cpp.o"
+},
+{
+  "directory": "/home/rvc/colcon_ws/src/to_unity/to_unity_cpp/build",
+  "command": "/usr/bin/g++ -DDEFAULT_RMW_IMPLEMENTATION=rmw_fastrtps_cpp -DNLOPT_DLL -DRCUTILS_ENABLE_FAULT_INJECTION -DSPDLOG_COMPILED_LIB -I/home/rvc/colcon_ws/src/to_unity/to_unity_cpp/include -isystem /home/rvc/colcon_ws/install/trac_ik_lib/include -isystem /home/rvc/colcon_ws/install/flexiv_msgs/include -isystem /opt/ros/foxy/include -isystem /usr/include/eigen3 -g -std=gnu++14 -Wall -Wextra -Wpedantic -o CMakeFiles/ur3e_control.dir/src/ur3e_control.cpp.o -c /home/rvc/colcon_ws/src/to_unity/to_unity_cpp/src/ur3e_control.cpp",
+  "file": "/home/rvc/colcon_ws/src/to_unity/to_unity_cpp/src/ur3e_control.cpp",
+  "output": "CMakeFiles/ur3e_control.dir/src/ur3e_control.cpp.o"
+},
+{
+  "directory": "/home/rvc/colcon_ws/src/to_unity/to_unity_cpp/build",
+  "command": "/usr/bin/g++ -DDEFAULT_RMW_IMPLEMENTATION=rmw_fastrtps_cpp -DNLOPT_DLL -DRCUTILS_ENABLE_FAULT_INJECTION -DSPDLOG_COMPILED_LIB -I/home/rvc/colcon_ws/src/to_unity/to_unity_cpp/include -isystem /home/rvc/colcon_ws/install/trac_ik_lib/include -isystem /home/rvc/colcon_ws/install/flexiv_msgs/include -isystem /opt/ros/foxy/include -isystem /usr/include/eigen3 -g -std=gnu++14 -Wall -Wextra -Wpedantic -o CMakeFiles/rizon_model.dir/src/rizon_model.cpp.o -c /home/rvc/colcon_ws/src/to_unity/to_unity_cpp/src/rizon_model.cpp",
+  "file": "/home/rvc/colcon_ws/src/to_unity/to_unity_cpp/src/rizon_model.cpp",
+  "output": "CMakeFiles/rizon_model.dir/src/rizon_model.cpp.o"
+}
+]
