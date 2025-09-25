@@ -1,0 +1,14 @@
+[
+{
+  "directory": "/home/rvc/colcon_ws/utils/rizon_trac_ik/build",
+  "command": "/usr/bin/c++  -isystem /opt/ros/foxy/include -isystem /usr/include/eigen3 -g -o CMakeFiles/main.dir/src/main.cpp.o -c /home/rvc/colcon_ws/utils/rizon_trac_ik/src/main.cpp",
+  "file": "/home/rvc/colcon_ws/utils/rizon_trac_ik/src/main.cpp",
+  "output": "CMakeFiles/main.dir/src/main.cpp.o"
+},
+{
+  "directory": "/home/rvc/colcon_ws/utils/rizon_trac_ik/build",
+  "command": "/usr/bin/c++  -isystem /opt/ros/foxy/include -isystem /usr/include/eigen3 -g -o CMakeFiles/main.dir/src/rizon_trac_ik.cpp.o -c /home/rvc/colcon_ws/utils/rizon_trac_ik/src/rizon_trac_ik.cpp",
+  "file": "/home/rvc/colcon_ws/utils/rizon_trac_ik/src/rizon_trac_ik.cpp",
+  "output": "CMakeFiles/main.dir/src/rizon_trac_ik.cpp.o"
+}
+]
