@@ -1,0 +1,29 @@
+/**
+ * @file config.h
+ * @copyright Flexiv Robotics 2019
+ */
+
+#ifndef FLEXIV_3D_RECONSTRUCTION_CONFIG_H_
+#define FLEXIV_3D_RECONSTRUCTION_CONFIG_H_
+
+#include <string>
+
+// clang-format off
+
+#define FLEXIV_3D_RECONSTRUCTION_VERSION_MAJOR @flexiv_3d_reconstruction_VERSION_MAJOR@
+#define FLEXIV_3D_RECONSTRUCTION_VERSION_MINOR @flexiv_3d_reconstruction_VERSION_MINOR@
+#define FLEXIV_3D_RECONSTRUCTION_VERSION_PATCH @flexiv_3d_reconstruction_VERSION_PATCH@
+
+#define FLEXIV_3D_RECONSTRUCTION_GIT_BRANCH "@flexiv_3d_reconstruction_GIT_BRANCH@"
+#define FLEXIV_3D_RECONSTRUCTION_GIT_COMMIT_HASH "@flexiv_3d_reconstruction_GIT_COMMIT_HASH@"
+
+namespace flexiv {
+namespace reconstruction {
+  const std::string kResourcesPath = "@flexiv_3d_reconstruction_resources_path@";
+  const std::string kVersionNumber = "@flexiv_3d_reconstruction_VERSION_MAJOR@.@flexiv_3d_reconstruction_VERSION_MINOR@.@flexiv_3d_reconstruction_VERSION_PATCH@";
+}
+}
+
+// clang-format on
+
+#endif

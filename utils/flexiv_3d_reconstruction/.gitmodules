@@ -1,0 +1,3 @@
+[submodule "cmake/tools"]
+	path = cmake/tools
+	url = https://bitbucket.org/FlexivTeam/flexiv_cmake_tools.git
