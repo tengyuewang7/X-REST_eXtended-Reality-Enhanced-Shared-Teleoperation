@@ -1,0 +1,8 @@
+README.md
+setup.py
+src/trac_ik_python/__init__.py
+src/trac_ik_python/trac_ik.py
+src/trac_ik_python.egg-info/PKG-INFO
+src/trac_ik_python.egg-info/SOURCES.txt
+src/trac_ik_python.egg-info/dependency_links.txt
+src/trac_ik_python.egg-info/top_level.txt

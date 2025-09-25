@@ -1,0 +1,27 @@
+{
+    "python.autoComplete.extraPaths": [
+        "/home/rvc/colcon_ws/install/unity_robotics_demo_msgs/lib/python3.8/site-packages",
+        "/home/rvc/colcon_ws/install/unity_robotics_demo/lib/python3.8/site-packages",
+        "/home/rvc/colcon_ws/install/ros_tcp_endpoint/lib/python3.8/site-packages",
+        "/home/rvc/colcon_ws/install/realsense2_camera_msgs/lib/python3.8/site-packages",
+        "/home/rvc/colcon_ws/install/flexiv_msgs/lib/python3.8/site-packages",
+        "/home/rvc/colcon_ws/install/flexiv_msg/lib/python3.8/site-packages",
+        "/home/rvc/colcon_ws/install/flexiv/lib/python3.8/site-packages",
+        "/home/rvc/colcon_ws/install/code_test/lib/python3.8/site-packages",
+        "/opt/ros/foxy/lib/python3.8/site-packages"
+    ],
+    "python.analysis.extraPaths": [
+        "/home/rvc/colcon_ws/install/unity_robotics_demo_msgs/lib/python3.8/site-packages",
+        "/home/rvc/colcon_ws/install/unity_robotics_demo/lib/python3.8/site-packages",
+        "/home/rvc/colcon_ws/install/ros_tcp_endpoint/lib/python3.8/site-packages",
+        "/home/rvc/colcon_ws/install/realsense2_camera_msgs/lib/python3.8/site-packages",
+        "/home/rvc/colcon_ws/install/flexiv_msgs/lib/python3.8/site-packages",
+        "/home/rvc/colcon_ws/install/flexiv_msg/lib/python3.8/site-packages",
+        "/home/rvc/colcon_ws/install/flexiv/lib/python3.8/site-packages",
+        "/home/rvc/colcon_ws/install/code_test/lib/python3.8/site-packages",
+        "/opt/ros/foxy/lib/python3.8/site-packages"
+    ],
+    "files.associations": {
+        "vector": "cpp"
+    }
+}
